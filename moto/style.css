@@ -1,0 +1,166 @@
+div.verx{
+width: 2000px;
+height: 2007px;
+background-color:#C4C4C4;
+;
+color: #C4C4C4;
+margin-left: -100px;
+margin-top:-10px;
+}
+h1{
+    color: #1E1E1E;
+    font-family: Arial, Helvetica, sans-serif;
+    position:absolute;
+    margin-left: 300px;
+    font-family: "Montserrat", serif;
+    top: 15px
+
+
+
+
+}
+body{
+
+    position: absolute;
+    display: flex;
+    background-repeat: none;
+    
+}
+img{
+    position: relative;
+    width: 1920px;
+    height: 838px;
+    margin-top: 140px;
+    left: 80px;
+    
+}
+#logo{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50px;
+    top: -130px;
+}
+#backr{
+width: 1600px;
+height: 600px;
+position: absolute;
+left: -80px;
+top: -10px;
+filter: brightness(40%);
+width: 100%
+
+}
+#moto{
+    position: absolute;
+  
+    left:350px
+
+
+}
+#akc{
+    position: absolute;
+    left:620px
+
+}
+#shl{
+    position: absolute;
+    left:850px}
+
+    #shl:hover{
+        color:#6C0606 ;
+        text-decoration:underline
+    }
+    #akc:hover{
+        color:#6C0606 ;
+        text-decoration:underline
+    }
+    #moto:hover{
+        color:#6C0606 ;
+        text-decoration:underline
+    }
+    #nov{
+        position: absolute;
+        width: 500px;
+        height: 407px;
+        object-position:px;
+       top: 70px;
+       border-radius: 100px;
+      
+
+    }
+div.omot{
+width:320px;
+height:500px;
+background-color:#ffffff ;
+position: absolute;
+right: 1570px;
+bottom: 700px;
+border: 2px solid;
+border-width: 2px;
+border-color: #aaa3a3;
+}
+#pmot{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 8px;
+    top: -100px;
+}
+#pmot p{
+position: absolute;
+bottom: -100px;
+
+}
+p{
+    position: relative;
+    bottom: -270px;
+    font-family: "Montserrat", serif;
+left: 20px;
+}
+#ene{
+    font-weight: 800;
+    font-size: 25px;
+}
+.korz{
+    position: relative;
+    width: 170px;
+    height: 50px;
+    bottom: -130px;
+    top: 100 px;
+    left: 15px;
+}
+div.tmot{
+width:320px;
+height:500px;
+background-color:#ffffff ;
+position: absolute;
+right: 1250px;
+bottom: 700px;
+border: 2px solid;
+border-width: 2px;
+border-color: #aaa3a3;
+}
+#vmot{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 8px;
+    top: -100px;
+}
+.korzt{
+    position: relative;
+    width: 170px;
+    height: 50px;
+    bottom: -130px;
+    top: 100 px;
+    left: 15px;  
+}
+#two{
+    font-weight: 800;
+    font-size: 25px;
+}
+
+
