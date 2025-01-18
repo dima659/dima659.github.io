@@ -1,0 +1,133 @@
+div.verx {
+    width: 110%;
+    height: 130px;
+    background-color: #2c2c2c;
+    ;
+    color: #c07e7e;
+    margin-left: -8px;
+    margin-top: -20px;
+    opacity: 09;
+}
+#logo {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 50px;
+    top: -40px;
+}
+.logot {
+    color: #ebd320;
+    position: relative;
+    left: 170px ;
+    top: 50px;
+    font-family:"Montserrat", serif; ;
+}
+
+#moto {
+    position: absolute;
+
+    left: 550px
+}
+
+#akc {
+    position: absolute;
+    left: 820px
+}
+#shl {
+    position: absolute;
+    left: 1050px
+}
+
+#shl:hover {
+    color: #6C0606;
+    text-decoration: underline
+}
+
+#akc:hover {
+    color: #6C0606;
+    text-decoration: underline
+}
+
+#moto:hover {
+    color: #6C0606;
+    text-decoration: underline
+}
+
+#nov {
+    position: absolute;
+    width: 800px;
+    height: 600px;
+    object-position: px;
+    top: 30px;
+    border-radius: 30px;
+    left: 100px;
+
+
+
+}
+.cartinka{
+    width: 1000px;
+    height: 500px;
+    background-color:#ffffff;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: rgb(220, 219, 219) ;
+    position: absolute;
+    left: 50px;
+    bottom: 40px;
+}
+body{
+    width: 100%;
+    height: 1200px;
+}
+.moto{
+position: absolute;
+left: 200px;
+}
+.cena{
+    width: 300px;
+    height: 700px;
+    background-color: #ffffff;
+    position: absolute;
+    left: 1150px;
+    border-radius: 50px;
+    bottom: -150px;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: rgb(220, 219, 219);
+
+}
+.cena p{
+    font-size: 30px;
+    font-family:"Montserrat", serif;;
+    font-weight: 1000;
+    position: absolute;
+    left: 70px;
+    top: 70px;
+    color: #393939;
+}
+#nal{
+    position: absolute;
+padding-top: 75px;
+margin-left:-50px;
+font-size: 20px;
+font-family: "Montserrat", serif;
+
+
+
+font-weight: 1000;
+
+
+}
+.knopka{
+    width: 100px;
+    height: 50px;
+    color:rgb(0, 0, 0);
+    background-color: rgba(205, 185, 4, 0.959);
+    border-radius: 100px;
+}
+#oform{
+    position: absolute;
+    top: 250px;left: 50px;
+    width: 200px;
+}

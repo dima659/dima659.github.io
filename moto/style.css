@@ -19,20 +19,21 @@ h1 {
 }
 
 .body {
-    width: 110%;
+    max-width: 100%;
     height: 2000px;
-    background-color: #aaa3a3;
+    background-color: #ffffff;
     position: relative;
-    bottom: -620px;
+    bottom: -700px;
     left: -10px;
+    
 }
 
 
 
 body {
-    background-image: url(IMG/motor_sports_racing_drift_76597_1600x900\ 2.png);
-
-
+    
+    background-color: #ffffff;
+    width:100%;
 
 }
 
@@ -92,11 +93,13 @@ img {
 
 #nov {
     position: absolute;
-    width: 500px;
-    height: 407px;
+    width: 800px;
+    height: 600px;
     object-position: px;
-    top: 70px;
-    border-radius: 100px;
+    top: 30px;
+    border-radius: 30px;
+    left: 100px;
+
 
 
 }
@@ -106,48 +109,48 @@ div.omot {
     height: 500px;
     background-color: #ffffff;
     position: relative;
-    right: -15px;
-    bottom: 1300px;
+    right: -20px;
+    bottom: 1250px;
     border: 2px solid;
     border-width: 2px;
     border-color: #aaa3a3;
-
 }
+
 
 #pmot {
-    position: absolute;
-    width: 300px;
+    position: relative;
+    width: 290px;
     height: 200px;
-    position: absolute;
-    left: 8px;
+    
+    left: 20px;
     top: -100px;
 }
+#pmot:hover{
 
-#pmot p {
+    background:url(IMG/vprhhn4hdbeyc7vniv18xgr5nljht5ya.jpg);
+    transform: scale(1.1)}
+
+.korzo{
     position: absolute;
-    bottom: -100px;
-
+    width: 170px;
+    height: 50px;
+    bottom: -130px;
+    top: 255px;
+    left: 25px;
 }
-
-p {
-    position: relative;
-    bottom: -270px;
-    font-family: "Montserrat", serif;
-    left: 20px;
+.korzt:hover{
+    transform: scale(1.1);
 }
-
 #ene {
     font-weight: 800;
     font-size: 25px;
 }
 
-.korz {
-    position: relative;
-    width: 170px;
-    height: 50px;
-    bottom: -130px;
-    top: 100 px;
-    left: 15px;
+.omotinf {
+    position: absolute;
+    left: -10px;
+    top: 10px;
+    width: 300px;
 }
 
 div.tmot {
@@ -156,32 +159,31 @@ div.tmot {
     background-color: #ffffff;
     position: relative;
     right: -350px;
-    bottom: 1804px;
+    bottom: 1754px;
     border: 2px solid;
     border-width: 2px;
     border-color: #aaa3a3;
 }
-#vmot:hover{
-    background: url(IMG/gr8.jpg);
-    transform: scale(1.2)
-}
 
-#vmot {
-    position: absolute;
+
+#vtmot {
+    position: relative;
     width: 300px;
     height: 200px;
-    position: absolute;
+    
     left: 8px;
     top: -100px;
 }
-
+#vtmot:hover{
+    transform: scale(1.1)
+}
 .korzt {
     position: relative;
     width: 170px;
     height: 50px;
-    bottom: -130px;
-    top: 100 px;
-    left: 15px;
+    bottom: -160px;
+    top: 120px;
+    left: 25px;
 }
 
 #two {
@@ -190,8 +192,10 @@ div.tmot {
 }
 
 .tmotinf {
-    position: relative;
+    position: absolute;
     left: -10px;
+    top: 7px;
+    width: 300px;
 }
 
 div.trmot {
@@ -199,8 +203,8 @@ div.trmot {
     height: 500px;
     background-color: #ffffff;
     position: relative;
-    right: -684px;
-    bottom: 2308px;
+    right: -350px;
+    bottom: 1754px;
     border: 2px solid;
     border-width: 2px;
     border-color: #aaa3a3;
@@ -253,8 +257,8 @@ div.fmot {
     height: 500px;
     background-color: #ffffff;
     position: relative;
-    right: -1018px;
-    bottom: 2812px;
+    right: -800px;
+    bottom: 2258px;
     border: 2px solid;
     border-width: 2px;
     border-color: #aaa3a3;
@@ -305,8 +309,8 @@ div.fimot {
     height: 500px;
     background-color: #ffffff;
     position: relative;
-    right: -1350px;
-    bottom: 3315px;
+    right: -1130px;
+    bottom: 2762px;
     border: 2px solid;
     border-width: 2px;
     border-color: #aaa3a3;
